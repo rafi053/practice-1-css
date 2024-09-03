@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+#mainMi{
+    display: flex;
+    flex-direction: row-reverse;
+   
+}
+
+#mainNav{
+    background-color: red ;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+#main{
+    background-color: peachpuff ;
+    width: 80%;
+    height: 500px;
+}
+
+.manuItem{
+
+    width: 20%;
+
+}
+
+#footer{
+    background-color:  pink;
+   
+}
